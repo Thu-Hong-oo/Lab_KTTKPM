@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/35e49ce8-d835-4e40-b298-f82ce64ef5d3)
-### Design Pattern
+# Design Pattern
 # Khái niệm
 Design Patterns (mẫu thiết kế) là một kĩ thuật trong lập trình hướng đối tượng và được sử dụng thường xuyên trong các ngôn ngữ OOP như Java,C#,Kotlin... Nó cũng cấp cho ta các mẫu (Pattern) để giải quyết các vẫn đề thường gặp, tuy bạn có thể tự nghĩ ra nhưng nó có thể không phải là tối ưu. Design pattern sẽ giúp chúng ta giải quyết những vấn đề này được tối ưu nhất.
 Design Patterns không phụ thuộc vào ngôn ngữ nào cả bạn có thể áp dụng với phần lớn những ngôn ngữ lập trình hiện nay.
